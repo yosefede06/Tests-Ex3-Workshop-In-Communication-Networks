@@ -22,7 +22,6 @@ Before running the tests, ensure that you have the following:
 
    ```
    // ------------------ IMPORT TESTS ------------------
-    #include "application.h"
     #include "tests.c"
     // ------------------ IMPORT TESTS ------------------
    ```
