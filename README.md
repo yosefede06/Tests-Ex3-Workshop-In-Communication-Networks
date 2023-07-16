@@ -30,6 +30,10 @@ Before running the tests, ensure that you have the following:
    ```
    (depending if you want to test 1 client or multiple clients)
 
+Impotant note: 
+   ```
+    In case you handle requests after accepting socket connections from the server to the new clients and you want to run the run_tests_multiple_clients(servername) test, you need     to connect first all X clients in an interval of T seconds, the default is set as 5 seconds.
+   ```
 The tests will be executed, and the results will be displayed on the console.
 
 ## Test Cases
