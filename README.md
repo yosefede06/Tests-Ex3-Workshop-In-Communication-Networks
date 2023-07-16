@@ -1,6 +1,3 @@
-# Tests-Ex3-Workshop-In-Communication-Networks
-Sure! Below is a sample README file that provides information about the tests and how to run them:
-
 # Low-Latency Protocols Exercise Tests
 
 These tests are designed to verify the functionality of the Low-Latency Protocols exercise.
